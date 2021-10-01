@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Jesus, a Software Developer working in the United Kingdom.
+
+I mostly work with C#, Python, C/C++ and MySQL.
+
+My current side project [Octo-Tweet](https://github.com/jvaque/Octo-Tweet), is a bot for showing detailed energy consumption metrics using the Octopus Energy API.
+
 <!--
 **jvaque/jvaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
