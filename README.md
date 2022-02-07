@@ -4,7 +4,10 @@ I am Jesus, a Software Developer working in the United Kingdom.
 
 I mostly work with C#, Python, C/C++ and MySQL.
 
-My current side project [Octo-Tweet](https://github.com/jvaque/Octo-Tweet), is a bot for showing detailed energy consumption metrics using the Octopus Energy API.
+My current personal projects include:
+- [Octo-Tweet](https://github.com/jvaque/Octo-Tweet): A [Twitter](https://twitter.com/My_Octopus_Bot) bot for showing detailed energy consumption metrics using the Octopus Energy API and matplotlib.
+- [jvaque.github.io](https://jvaque.github.io/): A work in progress showcase of previous work, including WebGL university coursework and where I'm experimenting with re-visiting WebGL.
+- [C# Multithreading](https://github.com/jvaque/Leaning-Stuff/tree/main/multi-thread/mandelbrot): Familiarizing myself with multithreading in C# by creating images of areas from the Mandelbrot set.
 
 <div>
     <img src="./media/C_Sharp_wordmark.svg" alt="csharp logo" height="50"/>
